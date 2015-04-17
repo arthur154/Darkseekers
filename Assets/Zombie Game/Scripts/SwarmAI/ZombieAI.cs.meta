@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 633246b6eadd36f4ca0c1ba6a87f0180
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - idleSoundObj: {instanceID: 0}
+  - attackSoundObj: {instanceID: 0}
+  - damageSoundObj: {instanceID: 0}
+  - zombieDamageSound1: {fileID: 8300000, guid: f6c0ae5f7526d404eb302b2d100b2d6d,
+      type: 3}
+  - zombieDamageSound2: {fileID: 8300000, guid: c9b5d9e09af7c0745aa0b305fc1688e8,
+      type: 3}
+  - zombieAlertSound1: {fileID: 8300000, guid: b1160669a48207540915f5f5fd023aaf, type: 3}
+  - zombieAttackSound1: {fileID: 8300000, guid: 0f203cf6ca6af8c4d9f477cbc941a054,
+      type: 3}
+  - target: {instanceID: 0}
+  - swarmContoller: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

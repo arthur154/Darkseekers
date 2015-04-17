@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9095e0d055175b14eb2129e95e31ac46
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 2800000, guid: aa7bab359d764da4d84a2b8c11b7c882, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

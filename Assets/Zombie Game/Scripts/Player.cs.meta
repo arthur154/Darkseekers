@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 95d404beb7a59b54ab4d14f9490ad9b3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - aimer: {fileID: 2800000, guid: f03aea5b4f5ecc74ebed683c2848c587, type: 3}
+  - healthIcon: {fileID: 2800000, guid: 18f1e6cde3e8b82468e568acc6b97a4d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

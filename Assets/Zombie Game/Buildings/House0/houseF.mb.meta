@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 399b382806c5ea04086630516a35e4cd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: chimney
+    100002: door
+    100004: door 1
+    100006: first
+    100008: first 1
+    100010: ground
+    100012: ground 1
+    100014: group1
+    100016: group1 1
+    100018: group2
+    100020: group2 1
+    100022: group3
+    100024: group3 1
+    100026: group4
+    100028: group4 1
+    100030: group5
+    100032: group5 1
+    100034: //RootNode
+    100036: left
+    100038: polySurface1
+    100040: polySurface1 1
+    100042: polySurface11
+    100044: polySurface11 1
+    100046: polySurface15
+    100048: polySurface15 1
+    100050: polySurface16
+    100052: polySurface16 1
+    100054: polySurface17
+    100056: polySurface17 1
+    100058: polySurface18
+    100060: polySurface18 1
+    100062: polySurface34
+    100064: polySurface35
+    100066: polySurface35 1
+    100068: polySurface36
+    100070: polySurface36 1
+    100072: polySurface37
+    100074: polySurface37 1
+    100076: polySurface38
+    100078: polySurface38 1
+    100080: polySurface58
+    100082: polySurface58 1
+    100084: polySurface59
+    100086: polySurface59 1
+    100088: polySurface60
+    100090: polySurface60 1
+    100092: polySurface62
+    100094: pPipe1
+    100096: pPipe1 1
+    100098: pPipe2
+    100100: pPipe2 1
+    100102: right
+    100104: roof
+    100106: roof 1
+    100108: roof1
+    100110: roof1 1
+    100112: rwp
+    100114: rwp 1
+    100116: windowsAndDoors
+    100118: windowsAndDoors 1
+    400000: chimney
+    400002: door
+    400004: door 1
+    400006: first
+    400008: first 1
+    400010: ground
+    400012: ground 1
+    400014: group1
+    400016: group1 1
+    400018: group2
+    400020: group2 1
+    400022: group3
+    400024: group3 1
+    400026: group4
+    400028: group4 1
+    400030: group5
+    400032: group5 1
+    400034: //RootNode
+    400036: left
+    400038: polySurface1
+    400040: polySurface1 1
+    400042: polySurface11
+    400044: polySurface11 1
+    400046: polySurface15
+    400048: polySurface15 1
+    400050: polySurface16
+    400052: polySurface16 1
+    400054: polySurface17
+    400056: polySurface17 1
+    400058: polySurface18
+    400060: polySurface18 1
+    400062: polySurface34
+    400064: polySurface35
+    400066: polySurface35 1
+    400068: polySurface36
+    400070: polySurface36 1
+    400072: polySurface37
+    400074: polySurface37 1
+    400076: polySurface38
+    400078: polySurface38 1
+    400080: polySurface58
+    400082: polySurface58 1
+    400084: polySurface59
+    400086: polySurface59 1
+    400088: polySurface60
+    400090: polySurface60 1
+    400092: polySurface62
+    400094: pPipe1
+    400096: pPipe1 1
+    400098: pPipe2
+    400100: pPipe2 1
+    400102: right
+    400104: roof
+    400106: roof 1
+    400108: roof1
+    400110: roof1 1
+    400112: rwp
+    400114: rwp 1
+    400116: windowsAndDoors
+    400118: windowsAndDoors 1
+    2300000: chimney
+    2300002: first
+    2300004: first 1
+    2300006: ground
+    2300008: ground 1
+    2300010: polySurface1
+    2300012: polySurface1 1
+    2300014: polySurface11
+    2300016: polySurface11 1
+    2300018: polySurface15
+    2300020: polySurface15 1
+    2300022: polySurface16
+    2300024: polySurface16 1
+    2300026: polySurface17
+    2300028: polySurface17 1
+    2300030: polySurface18
+    2300032: polySurface18 1
+    2300034: polySurface34
+    2300036: polySurface35
+    2300038: polySurface35 1
+    2300040: polySurface36
+    2300042: polySurface36 1
+    2300044: polySurface37
+    2300046: polySurface37 1
+    2300048: polySurface38
+    2300050: polySurface38 1
+    2300052: polySurface58
+    2300054: polySurface58 1
+    2300056: polySurface59
+    2300058: polySurface59 1
+    2300060: polySurface60
+    2300062: polySurface60 1
+    2300064: polySurface62
+    2300066: pPipe1
+    2300068: pPipe1 1
+    2300070: pPipe2
+    2300072: pPipe2 1
+    2300074: roof1
+    2300076: roof1 1
+    2300078: rwp
+    2300080: rwp 1
+    3300000: chimney
+    3300002: first
+    3300004: first 1
+    3300006: ground
+    3300008: ground 1
+    3300010: polySurface1
+    3300012: polySurface1 1
+    3300014: polySurface11
+    3300016: polySurface11 1
+    3300018: polySurface15
+    3300020: polySurface15 1
+    3300022: polySurface16
+    3300024: polySurface16 1
+    3300026: polySurface17
+    3300028: polySurface17 1
+    3300030: polySurface18
+    3300032: polySurface18 1
+    3300034: polySurface34
+    3300036: polySurface35
+    3300038: polySurface35 1
+    3300040: polySurface36
+    3300042: polySurface36 1
+    3300044: polySurface37
+    3300046: polySurface37 1
+    3300048: polySurface38
+    3300050: polySurface38 1
+    3300052: polySurface58
+    3300054: polySurface58 1
+    3300056: polySurface59
+    3300058: polySurface59 1
+    3300060: polySurface60
+    3300062: polySurface60 1
+    3300064: polySurface62
+    3300066: pPipe1
+    3300068: pPipe1 1
+    3300070: pPipe2
+    3300072: pPipe2 1
+    3300074: roof1
+    3300076: roof1 1
+    3300078: rwp
+    3300080: rwp 1
+    4300000: polySurface11
+    4300002: polySurface15
+    4300004: polySurface16
+    4300006: polySurface1
+    4300008: polySurface58
+    4300010: polySurface59
+    4300012: polySurface60
+    4300014: polySurface34
+    4300016: pPipe1
+    4300018: polySurface35
+    4300020: pPipe2
+    4300022: polySurface17
+    4300024: polySurface18
+    4300026: polySurface38
+    4300028: polySurface37
+    4300030: polySurface36
+    4300032: first
+    4300034: ground
+    4300036: roof1
+    4300038: rwp
+    4300040: polySurface11
+    4300042: polySurface15
+    4300044: polySurface16
+    4300046: polySurface1
+    4300048: polySurface58
+    4300050: polySurface59
+    4300052: polySurface60
+    4300054: pPipe1
+    4300056: polySurface35
+    4300058: pPipe2
+    4300060: polySurface17
+    4300062: polySurface18
+    4300064: polySurface38
+    4300066: polySurface37
+    4300068: polySurface36
+    4300070: polySurface62
+    4300072: first
+    4300074: ground
+    4300076: roof1
+    4300078: chimney
+    4300080: rwp
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

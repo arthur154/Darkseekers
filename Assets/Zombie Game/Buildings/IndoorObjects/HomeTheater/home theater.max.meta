@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 32ff70ffe75e0a74cafea836a7b7a635
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: apple
+    100002: Camera01
+    100004: Camera01.Target
+    100006: center speaker
+    100008: Cylinder01
+    100010: dvd
+    100012: //RootNode
+    100014: Line02
+    100016: Line03
+    100018: Plane03
+    100020: receiver
+    100022: small speaker
+    100024: small speaker01
+    100026: speaker01
+    100028: speaker02
+    100030: Sphere01
+    100032: sub woofer
+    100034: VRayLight01
+    100036: VRayLight02
+    100038: VRayLight03
+    400000: apple
+    400002: Camera01
+    400004: Camera01.Target
+    400006: center speaker
+    400008: Cylinder01
+    400010: dvd
+    400012: //RootNode
+    400014: Line02
+    400016: Line03
+    400018: Plane03
+    400020: receiver
+    400022: small speaker
+    400024: small speaker01
+    400026: speaker01
+    400028: speaker02
+    400030: Sphere01
+    400032: sub woofer
+    400034: VRayLight01
+    400036: VRayLight02
+    400038: VRayLight03
+    2300000: center speaker
+    2300002: Cylinder01
+    2300004: dvd
+    2300006: Line02
+    2300008: Line03
+    2300010: Plane03
+    2300012: receiver
+    2300014: small speaker
+    2300016: small speaker01
+    2300018: speaker01
+    2300020: speaker02
+    2300022: Sphere01
+    2300024: sub woofer
+    3300000: center speaker
+    3300002: Cylinder01
+    3300004: dvd
+    3300006: Line02
+    3300008: Line03
+    3300010: Plane03
+    3300012: receiver
+    3300014: small speaker
+    3300016: small speaker01
+    3300018: speaker01
+    3300020: speaker02
+    3300022: Sphere01
+    3300024: sub woofer
+    4300000: speaker01
+    4300002: sub woofer
+    4300004: dvd
+    4300006: receiver
+    4300008: Line02
+    4300010: center speaker
+    4300012: small speaker
+    4300014: small speaker01
+    4300016: Line03
+    4300018: Plane03
+    4300020: speaker02
+    4300022: Cylinder01
+    4300024: Sphere01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

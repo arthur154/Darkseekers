@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 6fdfc8e9b4eab4f46a16a05eaeb58f4f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BlobShadow
+    100002: Body
+    100004: Body_001
+    100006: Body_002
+    100008: BrakeDisk0
+    100010: BrakeDisk1
+    100012: BrakeDisk2
+    100014: BrakeDisk3
+    100016: Chassis
+    100018: //RootNode
+    100020: Glasses
+    100022: Interior
+    100024: Plane
+    100026: RearLight
+    100028: Roller
+    100030: Wheel0_graphics
+    100032: Wheel1_graphics
+    100034: Wheel2_graphics
+    100036: Wheel3_graphics
+    400000: BlobShadow
+    400002: Body
+    400004: Body_001
+    400006: Body_002
+    400008: BrakeDisk0
+    400010: BrakeDisk1
+    400012: BrakeDisk2
+    400014: BrakeDisk3
+    400016: Chassis
+    400018: //RootNode
+    400020: Glasses
+    400022: Interior
+    400024: Plane
+    400026: RearLight
+    400028: Roller
+    400030: Wheel0_graphics
+    400032: Wheel1_graphics
+    400034: Wheel2_graphics
+    400036: Wheel3_graphics
+    2300000: BlobShadow
+    2300002: Body
+    2300004: Body_001
+    2300006: Body_002
+    2300008: BrakeDisk0
+    2300010: BrakeDisk1
+    2300012: BrakeDisk2
+    2300014: BrakeDisk3
+    2300016: Chassis
+    2300018: Glasses
+    2300020: Interior
+    2300022: Plane
+    2300024: RearLight
+    2300026: Roller
+    2300028: Wheel0_graphics
+    2300030: Wheel1_graphics
+    2300032: Wheel2_graphics
+    2300034: Wheel3_graphics
+    3300000: BlobShadow
+    3300002: Body
+    3300004: Body_001
+    3300006: Body_002
+    3300008: BrakeDisk0
+    3300010: BrakeDisk1
+    3300012: BrakeDisk2
+    3300014: BrakeDisk3
+    3300016: Chassis
+    3300018: Glasses
+    3300020: Interior
+    3300022: Plane
+    3300024: RearLight
+    3300026: Roller
+    3300028: Wheel0_graphics
+    3300030: Wheel1_graphics
+    3300032: Wheel2_graphics
+    3300034: Wheel3_graphics
+    4300000: Plane
+    4300002: Body_002
+    4300004: Body
+    4300006: BlobShadow
+    4300008: Wheel1_graphics
+    4300010: Wheel3_graphics
+    4300012: Wheel2_graphics
+    4300014: Wheel0_graphics
+    4300016: Body_001
+    4300018: RearLight
+    4300020: Interior
+    4300022: Glasses
+    4300024: Chassis
+    4300026: BrakeDisk3
+    4300028: BrakeDisk1
+    4300030: BrakeDisk2
+    4300032: BrakeDisk0
+    4300034: Roller
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
